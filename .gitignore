@@ -1,0 +1,5 @@
+# Ignore design file
+design
+
+# Ignore all xd files
+.xd
